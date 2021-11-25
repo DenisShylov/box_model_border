@@ -1,6 +1,6 @@
 div {
-  width: 400px;
-  height: 200px;
+  width: auto;
+  height: auto;
   border: 3px solid black;
   padding: 50px;
   background-color: aqua;
