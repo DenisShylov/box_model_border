@@ -2,7 +2,7 @@
   background-color: forestgreen;
   width: 100px;
   height: 50px;
-  border-radius: 20px;
+  border-radius: 16px;
   margin: 50px;
 }
 .oval {
@@ -20,8 +20,8 @@
   margin: 50px;
 }
 .triangle {
-  width: 100px;
-  height: 50px;
+  width: 1px;
+  /* height: 50px; */
   border: 25px solid transparent;
   border-top-color: brown;
   margin: 50px;
